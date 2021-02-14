@@ -67,7 +67,7 @@ class ContactBook:
         print(
             """
 					---*---*---*---*---*---*---*---*---\n
-					Contacto no encontrado\n
+					Contact not found\n
 					---*---*---*---*---*---*---*---*---\n
 					""")
 
@@ -123,7 +123,7 @@ def run():
             break
 
         else:
-            print("Comando no encontrado")
+            print("Command not found")
 
 
 if __name__ == '__main__':
